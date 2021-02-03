@@ -30,7 +30,7 @@ const NavBar = (props: any) => {
                     <MenuIcon />
                 </IconButton>
                 <Typography variant="h1" className={classes.title} color="inherit">
-                    Get Stronk
+                    WKD
                 </Typography>
                 <Button color="inherit">Login</Button>
             </Toolbar>
